@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'corsheaders',
     'rest_framework',
-    'music_library'
+    'music_library',
 ]
 
 MIDDLEWARE = [
